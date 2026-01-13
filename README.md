@@ -40,13 +40,33 @@
 
 ### Step 1: Locate Your Hytale Settings Directory
 
-Navigate to your Hytale settings folder:
+Navigate to your Hytale settings folder based on your operating system:
+
+**Windows:**
 ```
-%APPDATA%\Hytale\
+%appdata%\Hytale\install\release\package\game\latest
 ```
 or
 ```
-C:\Users\[YourUsername]\AppData\Roaming\Hytale\
+C:\Users\[YourUsername]\AppData\Roaming\Hytale\install\release\package\game\latest
+```
+
+**Linux:**
+```
+$XDG_DATA_HOME/Hytale/install/release/package/game/latest
+```
+or
+```
+~/.local/share/Hytale/install/release/package/game/latest
+```
+
+**macOS:**
+```
+~/Application Support/Hytale/install/release/package/game/latest
+```
+or
+```
+/Users/[YourUsername]/Library/Application Support/Hytale/install/release/package/game/latest
 ```
 
 ### Step 2: Backup Your Current Settings
