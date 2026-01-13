@@ -1,0 +1,324 @@
+{
+  "FormatVersion": 5,
+  "Fullscreen": false,
+  "Maximized": true,
+  "WindowWidth": 1280,
+  "WindowHeight": 720,
+  "VSync": true,
+  "FpsLimit": 240,
+  "UnlimitedFps": false,
+  "FieldOfView": 75,
+  "RenderingSettings": {
+    "RenderScale": 75,
+    "ViewDistance": 192,
+    "Lod": 1,
+    "AntiAliasing": 3,
+    "Shadows": 0,
+    "Shading": 0,
+    "Bloom": 1,
+    "UseSunshaft": false,
+    "DepthOfField": 1,
+    "Water": 1,
+    "UseFoliageFading": true,
+    "Particles": 0,
+    "DepthBuffer": 0
+  },
+  "MaxChatMessages": 64,
+  "PlacementPreviewMode": 2,
+  "DisplayEntityStatBars": false,
+  "DisplayCombatText": true,
+  "DisplayNetworkQualityWarnings": true,
+  "DisplayInputBindingsOnHud": true,
+  "CameraShoulder": 1,
+  "HideHud": false,
+  "HideHotbar": false,
+  "HideCompass": false,
+  "HideNotifications": false,
+  "HideChat": false,
+  "HideHeldItem": false,
+  "DiagnosticMode": false,
+  "InputBindings": {
+    "MoveForwards": {
+      "Scancode": 26
+    },
+    "MoveBackwards": {
+      "Scancode": 22
+    },
+    "StrafeLeft": {
+      "Scancode": 4
+    },
+    "StrafeRight": {
+      "Scancode": 7
+    },
+    "Jump": {
+      "Key": 32
+    },
+    "Crouch": {
+      "Scancode": 225
+    },
+    "Sprint": {
+      "Scancode": 224
+    },
+    "Walk": {
+      "Key": 1073742050
+    },
+    "FlyUp": {
+      "Key": 32
+    },
+    "FlyDown": {
+      "Scancode": 225
+    },
+    "PrimaryItemAction": {
+      "MouseButton": 1
+    },
+    "SecondaryItemAction": {
+      "MouseButton": 3
+    },
+    "Ability1ItemAction": {
+      "Scancode": 29
+    },
+    "Ability2ItemAction": {
+      "Scancode": 8
+    },
+    "Ability3ItemAction": {
+      "Scancode": 21
+    },
+    "BlockInteractAction": {
+      "Scancode": 9
+    },
+    "RotateBlock": {
+      "Key": 114
+    },
+    "ShowUtilitySlotSelector": {
+      "Scancode": 29
+    },
+    "DismountAction": {
+      "Scancode": 9
+    },
+    "DropItem": {
+      "Scancode": 20
+    },
+    "HotbarSlot1": {
+      "Key": 49
+    },
+    "HotbarSlot2": {
+      "Key": 50
+    },
+    "HotbarSlot3": {
+      "Key": 51
+    },
+    "HotbarSlot4": {
+      "Key": 52
+    },
+    "HotbarSlot5": {
+      "Key": 53
+    },
+    "HotbarSlot6": {
+      "Key": 54
+    },
+    "HotbarSlot7": {
+      "Key": 55
+    },
+    "HotbarSlot8": {
+      "Key": 56
+    },
+    "HotbarSlot9": {
+      "Key": 57
+    },
+    "SwitchCameraMode": {
+      "Scancode": 62
+    },
+    "ActivateCameraRotation": {
+      "Key": 99
+    },
+    "Chat": {
+      "Scancode": 23
+    },
+    "PickBlock": {
+      "MouseButton": 2
+    },
+    "SwitchGameMode": {
+      "Scancode": 60
+    },
+    "OpenInventory": {
+      "Scancode": 8
+    },
+    "OpenMachinimaEditor": {
+      "Scancode": 17
+    },
+    "OpenMap": {
+      "Key": 109
+    },
+    "OpenToolsSettings": {
+      "Key": 98
+    },
+    "OpenDevTools": {
+      "Scancode": 53
+    },
+    "ShowPlayerList": {
+      "Key": 112
+    },
+    "ToggleBuilderToolsLegend": {
+      "Key": 108
+    },
+    "PreviousBuilderToolsLegendPage": {
+      "Key": 106
+    },
+    "NextBuilderToolsLegendPage": {
+      "Key": 107
+    },
+    "UndoItemAction": {
+      "Key": 122
+    },
+    "RedoItemAction": {
+      "Key": 121
+    },
+    "AddRemoveFavoriteMaterialItemAction": {
+      "Key": 0
+    },
+    "ToolPaintBrush": {
+      "Key": 1073741913
+    },
+    "ToolSculptBrush": {
+      "Key": 1073741914
+    },
+    "ToolSelectionTool": {
+      "Key": 1073741915
+    },
+    "ToolPaste": {
+      "Key": 1073741916
+    },
+    "ToolLine": {
+      "Key": 1073741917
+    },
+    "AlternatePlaySculptBrushModeModifier": {
+      "Key": 1073742049
+    },
+    "UsePaintModeForBrush": {
+      "Key": 117
+    },
+    "SelectBlockFromSet": {
+      "Scancode": 20
+    },
+    "PastePreview": {
+      "Key": 116
+    },
+    "SwitchHudVisibility": {
+      "Key": 1073741889,
+      "Modifiers": 0
+    },
+    "ToggleFullscreen": {
+      "Key": 1073741892
+    },
+    "TakeScreenshot": {
+      "Key": 1073741893
+    },
+    "Command": {
+      "Scancode": 56
+    },
+    "DecreaseSpeedMultiplier": {
+      "Key": 1073741882
+    },
+    "IncreaseSpeedMultiplier": {
+      "Key": 1073741883
+    },
+    "ToggleCreativeCollision": {
+      "Key": 1073741884
+    },
+    "ToggleFlyCamera": {
+      "Key": 1073741885
+    },
+    "ToggleFlyCameraControlTarget": {
+      "Key": 1073741886
+    },
+    "ToggleDebugScreens": {
+      "Key": 1073741888
+    },
+    "CrouchInputBehavior": 0,
+    "SprintInputBehavior": 0,
+    "WalkInputBehavior": 0
+  },
+  "MouseSettings": {
+    "MouseInverted": false,
+    "MouseXSpeed": 3.5,
+    "MouseYSpeed": 3.5,
+    "InvertMouseWheelScrollDirection": false
+  },
+  "AudioSettings": {
+    "OutputDevice": null,
+    "MasterVolume": 0.85,
+    "OutputMode": 0,
+    "CategoryVolumes": {
+      "Music": 0.85,
+      "Ambient": 0.85,
+      "SFX": 0.85,
+      "UI": 0.85
+    }
+  },
+  "MachinimaEditorSettings": {
+    "NewKeyframeFrameOffset": 30,
+    "AutosaveDelay": 30,
+    "CompressSaveFiles": false
+  },
+  "GameplaySettings": {
+    "ArmorItemsPickupLocation": 0,
+    "WeaponAndToolItemsPickupLocation": 0,
+    "UsableItemsPickupLocation": 0,
+    "SolidBlockItemsPickupLocation": 0,
+    "MiscItemsPickupLocation": 0,
+    "CameraBasedFlying": false,
+    "CameraBasedClimbing": true,
+    "AutoJumpObstacle": true,
+    "EnableUtilityQuickSwap": false,
+    "EnableArachnophobiaMode": false
+  },
+  "BuilderToolsSettings": {
+    "ToolFavorites": {},
+    "BlockFavorites": [],
+    "ToolReachDistance": 128,
+    "ToolDelayMin": 100,
+    "EnableBrushShapeRendering": true,
+    "BrushOpacity": 15,
+    "SelectionOpacity": 12,
+    "SelectionPanelOpacity": 20,
+    "DisplayLegend": true,
+    "ShowBuilderToolsNotifications": true,
+    "LaserPointerColor": "#2EFFD3",
+    "FlightInertia": 40,
+    "EnableNoClip": false,
+    "EnableAirPlacement": false,
+    "AllowNPCDetection": false,
+    "RespondToHit": false,
+    "FlightSpeedMultiplier": 1,
+    "BrushSoundsEnabled": true,
+    "BrushSoundVolume": 100,
+    "ShowEntityMarkers": false,
+    "FullbrightEnabled": false,
+    "QuickSettingsCategoryOrder": [
+      "movementFlight",
+      "placementSettings",
+      "toolSettings",
+      "brushSettings",
+      "soundSettings",
+      "selectionSettings",
+      "uiVisibility",
+      "displayNotifications"
+    ],
+    "QuickSettingsCollapsedCategories": [],
+    "QuickSettingsSelectedTab": "Settings"
+  },
+  "ShortcutSettings": {
+    "Macros": {},
+    "Keybinds": {}
+  },
+  "SavedCameraIndex": 1,
+  "UsedInitialAvatarPresetRandomization": false,
+  "JoinCamera": 0,
+  "SprintFovEffect": true,
+  "SprintFovIntensity": 1.175,
+  "ViewBobbingEffect": true,
+  "ViewBobbingIntensity": 1,
+  "CameraShakeEffect": true,
+  "FirstPersonCameraShakeIntensity": 1,
+  "ThirdPersonCameraShakeIntensity": 1
+}
