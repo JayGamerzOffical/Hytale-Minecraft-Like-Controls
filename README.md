@@ -1,9 +1,9 @@
 # 🎮 Hytale Minecraft-Like Controls
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/username/hytale-minecraft-controls/total.svg)]()
-[![Stars](https://img.shields.io/github/stars/username/hytale-minecraft-controls.svg)]()
-[![Issues](https://img.shields.io/github/issues/username/hytale-minecraft-controls.svg)]()
+[![Downloads](https://img.shields.io/github/downloads/JayGamerzOffical/Hytale-Minecraft-Like-Controls/total.svg)]()
+[![Stars](https://img.shields.io/github/stars/JayGamerzOffical/Hytale-Minecraft-Like-Controls.svg)]()
+[![Issues](https://img.shields.io/github/issuesJayGamerzOffical/Hytale-Minecraft-Like-Controls.svg)]()
 
 > Transform your Hytale experience with familiar Minecraft controls! This configuration file modifies Hytale's default keybindings to match Minecraft's control scheme, making the transition seamless for Minecraft players.
 
