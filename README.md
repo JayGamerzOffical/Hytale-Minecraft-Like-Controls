@@ -17,22 +17,22 @@
 
 **Windows:**
 ```
-%appdata%\Hytale\install\release\package\game\latest\settings.json
+%appdata%\Roaming\Hytale\UserData\Settings.json
 ```
 
 **Linux:**
 ```
-~/.local/share/Hytale/install/release/package/game/latest/settings.json
+~/.local/share/Hytale/UserData/Settings.json
 ```
 
 **macOS:**
 ```
-~/Library/Application Support/Hytale/install/release/package/game/latest/settings.json
+~/Library/Application Support/Hytale/UserData/Settings.json
 ```
 
 ### 2. Backup & Install
 
-1. Backup your current `settings.json`
+1. Backup your current `Settings.json`
 2. Download `Settings.json` from this repository
 3. Replace your existing file
 4. Launch Hytale
